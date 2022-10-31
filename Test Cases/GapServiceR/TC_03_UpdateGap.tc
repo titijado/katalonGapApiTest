@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_UpdateGap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7fea4cb-931e-44fd-b5cb-58d6c805d361</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>addd0d8e-2832-46d4-82c0-56ee008ac974</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c8ed8b1-a945-4ade-8e4b-6af74c02c78d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'635f58f5dfb31d31f19889fa'</defaultValue>
+      <description></description>
+      <id>addd0d8e-2832-46d4-82c0-56ee008ac974</id>
+      <masked>false</masked>
+      <name>GAPID</name>
+   </variable>
+   <variable>
+      <defaultValue>'TUGIRIMANA JDD UPDATE1'</defaultValue>
+      <description></description>
+      <id>7c8ed8b1-a945-4ade-8e4b-6af74c02c78d</id>
+      <masked>false</masked>
+      <name>UpdateGapname</name>
+   </variable>
+</TestCaseEntity>

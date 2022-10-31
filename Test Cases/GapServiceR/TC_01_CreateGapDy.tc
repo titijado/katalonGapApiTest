@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_CreateGapDy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>660363ac-b7f6-4bc1-8d35-b997d0486827</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>942cb01d-49a6-4f72-b6fd-57f3a014281c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fdec699-d6da-4dff-928d-8b8948546264</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>89d07353-5f7c-4a18-8356-5f65a0c0b948</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20654745-097b-44df-a301-103153059921</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TUGIRIMANA JD GAP '</defaultValue>
+      <description></description>
+      <id>942cb01d-49a6-4f72-b6fd-57f3a014281c</id>
+      <masked>false</masked>
+      <name>GPN</name>
+   </variable>
+   <variable>
+      <defaultValue>70</defaultValue>
+      <description></description>
+      <id>4fdec699-d6da-4dff-928d-8b8948546264</id>
+      <masked>false</masked>
+      <name>GAPW</name>
+   </variable>
+   <variable>
+      <defaultValue>21</defaultValue>
+      <description></description>
+      <id>89d07353-5f7c-4a18-8356-5f65a0c0b948</id>
+      <masked>false</masked>
+      <name>GAPS</name>
+   </variable>
+   <variable>
+      <defaultValue>'QA TEST 01'</defaultValue>
+      <description></description>
+      <id>20654745-097b-44df-a301-103153059921</id>
+      <masked>false</masked>
+      <name>GAPD</name>
+   </variable>
+</TestCaseEntity>
